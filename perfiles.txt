@@ -1,0 +1,6 @@
+Admin = "DanielaArenas";
+contraseñaAdmin = "daniela12";
+Usario_1 = "PepitoMendez";
+contraseñaUsario_1 = "pepito123";
+ Usario_2 = "EmiliaPerez";
+ contraseñaUsario_2 = "Emilia123";
