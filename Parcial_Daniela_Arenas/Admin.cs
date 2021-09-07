@@ -16,5 +16,10 @@ namespace Parcial_Daniela_Arenas
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

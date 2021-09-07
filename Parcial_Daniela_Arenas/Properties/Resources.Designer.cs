@@ -63,9 +63,81 @@ namespace Parcial_Daniela_Arenas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _42210381_dibujado_a_mano_garabatos_de_panadería_vector_sin_patrón_ {
+            get {
+                object obj = ResourceManager.GetObject("42210381-dibujado-a-mano-garabatos-de-panadería-vector-sin-patrón-", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _42210381_dibujado_a_mano_garabatos_de_panadería_vector_sin_patrón_1 {
+            get {
+                object obj = ResourceManager.GetObject("42210381-dibujado-a-mano-garabatos-de-panadería-vector-sin-patrón-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _42280245_dibujado_a_mano_panadería_sobre_fondo_blanco_fondo_inconsútil_del_modelo {
+            get {
+                object obj = ResourceManager.GetObject("42280245-dibujado-a-mano-panadería-sobre-fondo-blanco-fondo-inconsútil-del-modelo" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap brea4d_novgla_5 {
+            get {
+                object obj = ResourceManager.GetObject("brea4d_novgla-5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cómo_funciona_una_panadería {
             get {
                 object obj = ResourceManager.GetObject("cómo_funciona_una_panadería", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Fotolia_247375723_Subscription_Monthly_M {
+            get {
+                object obj = ResourceManager.GetObject("Fotolia_247375723_Subscription_Monthly_M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap productos_de_panaderia_composicion_sobre_fondo_negro_vista_superior_y_espacio_para_el_texto_td1ndt {
+            get {
+                object obj = ResourceManager.GetObject("productos-de-panaderia-composicion-sobre-fondo-negro-vista-superior-y-espacio-par" +
+                        "a-el-texto-td1ndt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Que_diferencia_la_panaderia_de_la_pasteleria {
+            get {
+                object obj = ResourceManager.GetObject("Que-diferencia-la-panaderia-de-la-pasteleria", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

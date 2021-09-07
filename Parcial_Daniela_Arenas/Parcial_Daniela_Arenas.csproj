@@ -82,6 +82,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -97,6 +100,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cómo-funciona-una-panadería.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Que-diferencia-la-panaderia-de-la-pasteleria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fotolia_247375723_Subscription_Monthly_M.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42280245-dibujado-a-mano-panadería-sobre-fondo-blanco-fondo-inconsútil-del-modelo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42210381-dibujado-a-mano-garabatos-de-panadería-vector-sin-patrón-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42210381-dibujado-a-mano-garabatos-de-panadería-vector-sin-patrón-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\productos-de-panaderia-composicion-sobre-fondo-negro-vista-superior-y-espacio-para-el-texto-td1ndt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brea4d_novgla-5.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

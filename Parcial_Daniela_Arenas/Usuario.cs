@@ -16,5 +16,15 @@ namespace Parcial_Daniela_Arenas
         {
             InitializeComponent();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            rtbRegistro.Text = "datos del cliente \n" + "nombre: " + TxtNombre.Text + "\n" + "Cedula: " + TxtCedula.Text + "\n" + "Pan aliñado: " + TxtAliñado.Text + "\n" + " Pan no Aliñado: " + TxtNoAliñado.Text + "\n" + "Pan especial: " + TxtEspecial.Text + "\n" + "valor total de la venta: " + TxtValor.Text;
+        }
     }
 }
